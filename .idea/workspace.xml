@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cf46a2e-ef02-4175-9469-d74b82b6b80b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java/com/spring/practice/myfirstApp/MyfirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java/com/spring/practice/myfirstApp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/test/java/com/spring/practice/myfirstApp/MyfirstAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java/com/spring/practice/myfirstApp/MyfirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java/com/spring/practice/myfirstApp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/test/java/com/spring/practice/myfirstApp/MyfirstAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/java/com/spring/practice/myfirstApp/MyfirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/java/com/spring/practice/myfirstApp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/test/java/com/spring/practice/myfirstApp/MyfirstAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/main/java/com/spring/practice/myfirstApp/MyfirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/main/java/com/spring/practice/myfirstApp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/test/java/com/spring/practice/myfirstApp/MyfirstAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/src/main/java/com/spring/practice/myfirstApp/MyfirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/src/main/java/com/spring/practice/myfirstApp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/src/test/java/com/spring/practice/myfirstApp/MyfirstAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/main/java/com/spring/practice/myfirstApp/MyfirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/main/java/com/spring/practice/myfirstApp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/test/java/com/spring/practice/myfirstApp/MyfirstAppApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2m6PNFeJssCQPQJIIS1RFqZq8Hj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/deepu/OneDrive/Desktop/dev-spring-boot/01-spring-boot-overview"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf46a2e-ef02-4175-9469-d74b82b6b80b" name="Changes" comment="" />
+      <created>1726394010974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726394010974</updated>
+    </task>
+    <servers />
+  </component>
+</project>

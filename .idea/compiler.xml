@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myfirstApp (4)" />
+        <module name="crud (9)" />
+        <module name="myfirstApp (2)" />
+        <module name="thymleafDemo (2)" />
+        <module name="crud (5)" />
+        <module name="thymleafDemo (4)" />
+        <module name="crud (7)" />
+        <module name="thymleafDemo (6)" />
+        <module name="crud (1)" />
+        <module name="crud (3)" />
+        <module name="crud" />
+        <module name="REST_HTTP (1)" />
+        <module name="REST_HTTP (3)" />
+        <module name="myfirstApp (5)" />
+        <module name="myfirstApp (3)" />
+        <module name="myfirstApp (1)" />
+        <module name="crud (8)" />
+        <module name="REST_HTTP" />
+        <module name="thymleafDemo (1)" />
+        <module name="thymleafDemo (3)" />
+        <module name="crud (4)" />
+        <module name="thymleafDemo (5)" />
+        <module name="myfirstApp" />
+        <module name="crud (6)" />
+        <module name="crud (2)" />
+        <module name="thymleafDemo" />
+        <module name="REST_HTTP (2)" />
+        <module name="REST_HTTP (4)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="REST_HTTP" options="-parameters" />
+      <module name="REST_HTTP (1)" options="-parameters" />
+      <module name="REST_HTTP (2)" options="-parameters" />
+      <module name="REST_HTTP (3)" options="-parameters" />
+      <module name="REST_HTTP (4)" options="-parameters" />
+      <module name="crud" options="-parameters" />
+      <module name="crud (1)" options="-parameters" />
+      <module name="crud (2)" options="-parameters" />
+      <module name="crud (3)" options="-parameters" />
+      <module name="crud (4)" options="-parameters" />
+      <module name="crud (5)" options="-parameters" />
+      <module name="crud (6)" options="-parameters" />
+      <module name="crud (7)" options="-parameters" />
+      <module name="crud (8)" options="-parameters" />
+      <module name="crud (9)" options="-parameters" />
+      <module name="myfirstApp" options="-parameters" />
+      <module name="myfirstApp (1)" options="-parameters" />
+      <module name="myfirstApp (2)" options="-parameters" />
+      <module name="myfirstApp (3)" options="-parameters" />
+      <module name="myfirstApp (4)" options="-parameters" />
+      <module name="myfirstApp (5)" options="-parameters" />
+      <module name="thymleafDemo" options="-parameters" />
+      <module name="thymleafDemo (1)" options="-parameters" />
+      <module name="thymleafDemo (2)" options="-parameters" />
+      <module name="thymleafDemo (3)" options="-parameters" />
+      <module name="thymleafDemo (4)" options="-parameters" />
+      <module name="thymleafDemo (5)" options="-parameters" />
+      <module name="thymleafDemo (6)" options="-parameters" />
+    </option>
+  </component>
+</project>

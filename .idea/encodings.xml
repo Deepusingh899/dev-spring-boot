@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/01-spring-boot-rest-crud-hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/02-spring-boot-rest-crud-student-list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/03-spring-boot-rest-crud-student-by-studentId/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/04-spring-boot-rest-crud-student-exception-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/05-spring-boot-rest-crud-student-global-exception-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/01-spring-boot-rest-crud-employees-findAll/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/02-spring-boot-rest-crud-employees-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/03-spring-boot-rest-crud-employees-dao-find-add-update-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/04-spring-boot-rest-crud-employees-service-find-add-update-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/05-spring-boot-rest-crud-employees-rest-controller-get-a-single-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/06-spring-boot-rest-crud-employees-rest-controller-add-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/07-spring-boot-rest-crud-employees-rest-controller-update-employee-and-delete-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/08-spring-boot-crud-employees-with-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/09-spring-boot-crud-employees-with-spring-rest-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/10-spring-boot-crud-employees-with-config-and-sorting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/01-thymleafDemo-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/02-thymleafDemo-helloworld-css/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/03-reading-html-form-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/04-adding-data-to the model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/05-binding-request-param/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/06-getmapping-and-postmaping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/12-form-data-binding-checkbox/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/05-Command-line-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/01-spring-boot-rest-crud-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/02-spring-boot-rest-crud-student-list/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/03-spring-boot-rest-crud-student-by-studentId/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/04-spring-boot-rest-crud-student-exception-handling/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/05-spring-boot-rest-crud-student-global-exception-handling/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/01-spring-boot-rest-crud-employees-findAll/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/02-spring-boot-rest-crud-employees-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/08-spring-boot-crud-employees-with-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/09-spring-boot-crud-employees-with-spring-rest-data/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/10-spring-boot-crud-employees-with-config-and-sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/03-spring-boot-rest-crud-employees-dao-find-add-update-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/06-spring-boot-rest-crud-employees-rest-controller-add-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/04-spring-boot-rest-crud-employees-service-find-add-update-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/05-spring-boot-rest-crud-employees-rest-controller-get-a-single-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employees/07-spring-boot-rest-crud-employees-rest-controller-update-employee-and-delete-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/05-binding-request-param/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/03-reading-html-form-data/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/01-thymleafDemo-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/04-adding-data-to the model/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/06-getmapping-and-postmaping/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/12-form-data-binding-checkbox/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/02-thymleafDemo-helloworld-css/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/07-form-data-binding-textfield/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -23,17 +23,6 @@ public class EmployeeController {
         theModel.addAttribute("employee",theEmployee);
         return "employees/employee-form";
     }
-    @GetMapping("/showFormForUpdate")
-    public String showFormForUpdate(@RequestParam("employeeId") int theId, Model theModel){
-        //get the employee from the service
-        Employee theEmployee=employeeService.findById(theId);
-
-        //set the employee in the model to pre populate form
-        theModel.addAttribute("employee",theEmployee);
-
-        //send the data to our form
-        return "employees/employee-form";
-    }
     @PostMapping("/save")
     public String saveEmployee(@ModelAttribute ("employee") Employee theEmployee){
         employeeService.save(theEmployee);

@@ -21,7 +21,6 @@
                     <th>First Name</th>
                     <th>Last Name</th>
                     <th>Email</th>
-                    <th>Action</th>
                 </tr>
             </thead>
             <tbody>
@@ -29,19 +28,6 @@
                     <td th:text="${theEmployees.firstName}" />
                     <td th:text="${theEmployees.lastName}" />
                     <td th:text="${theEmployees.email}" />
-                    <td>
-                        <a th:href="@{/employees/showFormForUpdate(employeeId=${theEmployees.id})}"
-                            class="btn btn-info btn-sm">
-                            Edit
-                        </a>
-                        <!-- Aternate Solution
-<!--                        <form action="#" th:action="@{/employees/showFormForUpdate}" method="POST">-->
-
-<!--                            <input type="hidden" name="employeeId" th:value="${theEmployees.id}" />-->
-<!--                            <button type="submit" class="btn btn-info btn-sm">Update</button>-->
-
-<!--                        </form>-->
-                    </td>
                 </tr>
             </tbody>
         </table>

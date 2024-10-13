@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sprngMVC" />
+        <module name="sprngMVC (9)" />
+        <module name="sprngMVC (12)" />
+        <module name="sprngMVC (8)" />
+        <module name="sprngMVC (11)" />
+        <module name="sprngMVC (7)" />
+        <module name="sprngMVC (10)" />
+        <module name="sprngMVC (6)" />
+        <module name="sprngMVC (5)" />
+        <module name="sprngMVC (4)" />
+        <module name="sprngMVC (3)" />
+        <module name="sprngMVC (2)" />
+        <module name="sprngMVC (1)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sprngMVC" options="-parameters" />
+      <module name="sprngMVC (1)" options="-parameters" />
+      <module name="sprngMVC (10)" options="-parameters" />
+      <module name="sprngMVC (11)" options="-parameters" />
+      <module name="sprngMVC (12)" options="-parameters" />
+      <module name="sprngMVC (2)" options="-parameters" />
+      <module name="sprngMVC (3)" options="-parameters" />
+      <module name="sprngMVC (4)" options="-parameters" />
+      <module name="sprngMVC (5)" options="-parameters" />
+      <module name="sprngMVC (6)" options="-parameters" />
+      <module name="sprngMVC (7)" options="-parameters" />
+      <module name="sprngMVC (8)" options="-parameters" />
+      <module name="sprngMVC (9)" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc-security-logout/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-spring-mvc-security-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-spring-mvc-security-login-form/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-mvc-security-in-memory-user/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-boot-spring-mvc-security-custom-access-denied/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-spring-mvc-security-login-form-show-error/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-security-display-userid-and-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security-restric-URL-based-on-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/11-spring-boot-spring-mvc-security-JDBC-authontication-plain-text/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-spring-mvc-security-display-content-based-one roles/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-spring-mvc-security-custom-login-form-with-bootstrap/pom.xml" />
+        <option value="$PROJECT_DIR$/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/pom.xml" />
+        <option value="$PROJECT_DIR$/12-spring-boot-spring-mvc-security-JDBC-authontication-bcrypt-encryption/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

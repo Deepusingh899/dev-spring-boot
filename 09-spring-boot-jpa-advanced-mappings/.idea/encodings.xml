@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/02-jpa-one-to-one-uni-create-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-jpa-one-to-one-uni-find-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-jpa-one-to-one-uni-delete-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-jpa-one-to-one-bi-find-instructor-and-instructor-details/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-jpa-one-to-one-bi-delete-instructor-and-instructor-details/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-jpa-one-to-many-create-instructor-with-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-jpa-one-to-many-eager-find-instructor-with-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-jpa-one-to-many-lazy-find-courses-for-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-jpa-one-to-many-lazy-find-courses-and-instructor-with-join-fetch/src/main/java" charset="UTF-8" />
+  </component>
+</project>

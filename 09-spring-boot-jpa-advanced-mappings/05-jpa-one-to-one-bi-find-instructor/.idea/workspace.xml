@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e2fb69f-2f25-4fd0-b114-deaa2115c097" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/__MACOSX/spring-mvc-security-jdbc/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/__MACOSX/spring-mvc-security-jdbc/sql-scripts/._05-setup-spring-security-demo-database-bcrypt.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/__MACOSX/spring-mvc-security-jdbc/sql-scripts/._employee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/sql-scripts/employee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/java/com/learn2code/springboot/sprngMVC/SprngMvcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/java/com/learn2code/springboot/sprngMVC/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/java/com/learn2code/springboot/sprngMVC/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/java/com/learn2code/springboot/sprngMVC/security/DemoSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/templates/access-denied.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/templates/fancy-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/templates/leaders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/templates/login-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/main/resources/templates/systems.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-spring-boot-spring-mvc-security/13-spring-boot-spring-mvc-security-JDBC-authontication-custom-table/src/test/java/com/learn2code/springboot/sprngMVC/SprngMvcApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nTiCJIgch76yV1czDEqnREcppN" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CrudDemoApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/deepu/OneDrive/Desktop/dev-spring-boot/09-spring-boot-jpa-advanced-mappings/05-jpa-one-to-one-bi-delete-instructor-and-instructor-details"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="03-jpa-one-to-one-uni-delete-instructor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="03-jpa-one-to-one-uni-delete-instructor" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e2fb69f-2f25-4fd0-b114-deaa2115c097" name="Changes" comment="" />
+      <created>1729003338131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729003338131</updated>
+    </task>
+    <servers />
+  </component>
+</project>

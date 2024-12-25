@@ -38,10 +38,12 @@ public class CrudDemoApplication {
 
 			// findCoursesForInstructor(appDAO);
 
-			findInstructorWithCoursesJoinFetch(appDAO);
+			// findInstructorWithCoursesJoinFetch(appDAO);
 
 		};
 	}
+
+
 
 	private void findInstructorWithCoursesJoinFetch(AppDao appDAO) {
 
